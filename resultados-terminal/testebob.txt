@@ -1,0 +1,4 @@
+root@Bob:/tmp/pycore.37521/Bob.conf# python B_cliente.py
+Informe uma frase em letras minusculas: 'teste com cliente bob'
+('Do Servidor: ', u'TESTE COM CLIENTE BOB')
+root@Bob:/tmp/pycore.37521/Bob.conf# 

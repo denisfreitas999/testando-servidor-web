@@ -1,0 +1,4 @@
+root@Alice:/tmp/pycore.37510/Alice.conf# python Alice_Cliente.py
+Informe uma frase em letras minusculas: 'bom dia mundo'
+('Do Servidor: ', u'BOM DIA MUNDO')
+root@Alice:/tmp/pycore.37510/Alice.conf# 
