@@ -172,8 +172,8 @@ node n5 {
 	!
     }
     canvas c1
-    iconcoords {52.0 191.0}
-    labelcoords {42.0 235.0}
+    iconcoords {68.0 364.0}
+    labelcoords {58.0 408.0}
     interface-peer {eth0 n4}
     custom-config {
 	custom-config-id service:UserDefined
@@ -389,7 +389,7 @@ annotation a1 {
 }
 
 annotation a2 {
-    iconcoords {18.0 92.0 153.0 301.0}
+    iconcoords {13 245 152 458}
     type rectangle
     label {}
     labelcolor black
@@ -399,6 +399,84 @@ annotation a2 {
     width 0
     border black
     rad 25
+    canvas c1
+}
+
+annotation a3 {
+    iconcoords {665.0 72.0}
+    type text
+    label {Computadores da empresa}
+    labelcolor #000000
+    fontfamily {Arial}
+    fontsize 12
+    canvas c1
+}
+
+annotation a4 {
+    iconcoords {674.0 100.0}
+    type text
+    label {Alice, Bob e Zack}
+    labelcolor black
+    fontfamily {Arial}
+    fontsize 12
+    canvas c1
+}
+
+annotation a5 {
+    type text
+    iconcoords {824.0 84.0}
+    label {}
+    canvas c1
+}
+
+annotation a6 {
+    iconcoords {508.0 241.0}
+    type text
+    label {Servidor interno de backup da empresa em LAN}
+    labelcolor black
+    fontfamily {Arial}
+    fontsize 12
+    canvas c1
+}
+
+annotation a7 {
+    type text
+    iconcoords {771.0 157.0}
+    label {}
+    canvas c1
+}
+
+annotation a8 {
+    iconcoords {329.0 368.0}
+    type text
+    label {Provedor e internet}
+    labelcolor black
+    fontfamily {Arial}
+    fontsize 12
+    canvas c1
+}
+
+annotation a9 {
+    type text
+    iconcoords {410.0 379.0}
+    label {}
+    canvas c1
+}
+
+annotation a10 {
+    iconcoords {26.0 485.0}
+    type text
+    label {Servidor do Site na nuvem da Hostinger.  Site em wordpress}
+    labelcolor black
+    fontfamily {Arial}
+    fontsize 12
+    canvas c1
+}
+
+annotation a11 {
+    type text
+    iconcoords {218.0 210.0}
+    label {}
     canvas c1
 }
 
